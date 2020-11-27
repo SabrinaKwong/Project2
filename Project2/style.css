@@ -1,0 +1,14 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  margin: 3em;
+}
+
+h1 {
+  font-style: italic;
+  color: #6FABA4;
+}
+
+a-scene {
+  height: 500px;
+  width: 350px;
+}
