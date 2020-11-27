@@ -1,25 +1,27 @@
 body {
   font-family: 'Quicksand', sans-serif;
-  font-size: 17px;
-  margin: 50px 5px;
+  font-size:18px;
+  margin: 5em;
   text-align: center;
+  margin: 25px 50px;
 }
 
 h1 {
   font-style: italic;
   color: #6FABA4;
   text-align: center;
+  margin: 25px 50px;
 }
 
 p {
   font-style: italic;
   color: #6FABA4;
   text-align: center;
-  margin: 50px 50px;
+  margin: 25px 50px;
 }
-
 
 a-scene {
   height: 500px;
   width: 350px;
+  align-items: center;
 }
