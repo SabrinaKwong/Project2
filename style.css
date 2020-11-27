@@ -1,11 +1,3 @@
-body {
-  font-family: 'Quicksand', sans-serif;
-  font-size:18px;
-  margin: 5em;
-  text-align: center;
-  margin: 25px 50px;
-}
-
 h1 {
   font-style: italic;
   color: #6FABA4;
@@ -16,6 +8,14 @@ h1 {
 p {
   font-style: italic;
   color: #6FABA4;
+  text-align: center;
+  margin: 25px 50px;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-size:18px;
+  margin: 5em;
   text-align: center;
   margin: 25px 50px;
 }
